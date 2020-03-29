@@ -1,3 +1,5 @@
+# Please install Colorama before running this script!!!
+
 import subprocess
 import threading
 import os
